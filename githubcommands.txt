@@ -1,0 +1,8 @@
+git --version
+git config --global --list
+ssh-keygen to create a ssh key pair 
+git push 
+git fetch
+git pull
+git status
+git clone <>[Dclonelink>
