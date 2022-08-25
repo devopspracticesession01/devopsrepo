@@ -1,8 +1,19 @@
-git --version
-git config --global --list
-ssh-keygen to create a ssh key pair 
-git push 
-git fetch
-git pull
-git status
-git clone <>[Dclonelink>
+GIT HUB COMMANDS
+
+--------------------------------------------------
+
+git --version: Displays git version
+
+
+git config --global --list: configuration of git
+
+ssh-keygen: create a ssh key pair for ssh connection with remote git
+
+git push: to push the commits from local repo to remote repo
+
+git fetch: git fetch any changes in the remote repo
+git pull: to pull the remote repo
+git status: to know the status of files untracked, modified
+git clone: to clone the remote repo
+
+
