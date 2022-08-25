@@ -1,0 +1,15 @@
+git commands
+
+git init
+git add .
+git add <filename>
+git commit -m ""[Dmessage[C
+git stash <commitID>
+git rebase HEAD~N
+git merge
+git log
+git log --oneline
+git checkout <branchname>
+git checkout <commitID>
+git reflog
+git branch <branchname>
