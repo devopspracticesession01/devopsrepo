@@ -13,3 +13,5 @@ git checkout <branchname>
 git checkout <commitID>
 git reflog
 git branch <branchname>
+git commit --amend -m "updated commit name"
+git reset 
